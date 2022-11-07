@@ -565,7 +565,7 @@ body.preloader-site {
 
 
 .foto1 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-kang-emil.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("https://github.com/vivekcyber2525/invitation/blob/main/IMG-20221107-WA0000.jpg?raw=true");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -574,7 +574,7 @@ body.preloader-site {
 
 
 .foto2 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-cashbac.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("https://github.com/vivekcyber2525/invitation/blob/main/IMG-20221107-WA0001.jpg?raw=true");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -582,7 +582,7 @@ body.preloader-site {
 }
 
 .foto3 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-selfie.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("https://github.com/vivekcyber2525/invitation/blob/main/IMG-20221107-WA0002.jpg?raw=true");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -590,15 +590,15 @@ body.preloader-site {
 }
 
 .foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-lamaran.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("https://github.com/vivekcyber2525/invitation/blob/main/IMG-20221107-WA0003.jpg?raw=true");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
   min-height: 24rem;
 }
 
-.foto5 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-red-car.jpg");
+.foto5 {d-car.jpg
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("https://github.com/vivekcyber2525/invitation/blob/main/IMG-20221107-WA0004.jpg?raw=true");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
